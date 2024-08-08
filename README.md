@@ -18,7 +18,7 @@ Aplikasi Todo sederhana yang memungkinkan pengguna untuk mengelola tugas-tugas m
 
     Install composer
 
-    git clone 
+    git clone https://github.com/deniyudi/energeek-test.git
     cd <the-app>
 
 2. _Instal Dependensi_
