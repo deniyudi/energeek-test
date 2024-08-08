@@ -47,7 +47,7 @@ Aplikasi Todo sederhana yang memungkinkan pengguna untuk mengelola tugas-tugas m
 
 7. _Jalankan Aplikasi_
 
-    php artisan serve
+    php artisan serve, 
     npm run dev
 
 8. _ENJOY_
