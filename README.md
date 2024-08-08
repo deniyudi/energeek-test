@@ -19,14 +19,15 @@ Aplikasi Todo sederhana yang memungkinkan pengguna untuk mengelola tugas-tugas m
     Install composer
 
     git clone https://github.com/deniyudi/energeek-test.git
+   
     cd <the-app>
 
-2. _Instal Dependensi_
+3. _Instal Dependensi_
 
     composer install
     npm install
 
-3. _Konfigurasi Environment_  
+4. _Konfigurasi Environment_  
    Salin file .env.example menjadi .env dan sesuaikan konfigurasi sesuai kebutuhan:
 
     cp .env.example .env
@@ -37,19 +38,19 @@ Aplikasi Todo sederhana yang memungkinkan pengguna untuk mengelola tugas-tugas m
 
     Buat database dan update configurasi
 
-4. _Migrasi Database_
+5. _Migrasi Database_
    Jalankan migrasi untuk membuat tabel yang diperlukan di database:
     php artisan migrate
-5. _Jalankan Seeder_
+6. _Jalankan Seeder_
 
     php artisan db:seed
 
-6. _Jalankan Aplikasi_
+7. _Jalankan Aplikasi_
 
     php artisan serve
     npm run dev
 
-7. _ENJOY_
+8. _ENJOY_
 
 ## Dokumentasi Postman
 
